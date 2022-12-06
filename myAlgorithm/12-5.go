@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"math"
 )
 
@@ -34,6 +33,7 @@ func lengthOfLongestSubstring(s string) int {
 	}
 	return res
 }
+
 func main() {
-	fmt.Println(lengthOfLongestSubstring("anna"))
+
 }
