@@ -33,7 +33,3 @@ func lengthOfLongestSubstring(s string) int {
 	}
 	return res
 }
-
-func main() {
-
-}
